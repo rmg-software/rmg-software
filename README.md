@@ -1,1 +1,1 @@
-# rmg-software
+# RMG Software
